@@ -12,7 +12,7 @@ $\texttt{\color{#7b9d9e}i'm coming}$ $\texttt{\color{#5b756a}home. did}$ $\textt
 
 <img align="center" width="200" src="https://github.com/KURICIFER/KURICIFER/blob/440e941dfc5a4687dc1b03659e751c2bf4ac9b33/vicsti.png">   <img align="center" width="270" src="https://github.com/KURICIFER/KURICIFER/blob/5545ff5068a9b91d5dcd812dbaec6c4bea84b2f7/tcomitsi2.png">
 
-[@Pixelbrickz](https://github.com/Pixelbrickz)     $\texttt{\color{#7b9d9e}The TSC to my Red}$     [@VampiricSorrow](https://github.com/VampiricSorrow)     $\texttt{\color{#4b584d}The King Orange to my Purple, Hello dad ^_^}$
+[@Pixelbrickz](https://github.com/Pixelbrickz)     $\texttt{\color{#7b9d9e}The TSC to my Red}$     [@VampiricSorrow](https://github.com/VampiricSorrow)     $\texttt{\color{#4b584d}The King Orange to my Purple, Hello dad ^`^}$
 
 <img align="center" width="1100" src="https://github.com/KURICIFER/KURICIFER/blob/ab736ecac4b892c85356b8d5a72033363184735a/lowerdivider.png">
 
